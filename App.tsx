@@ -8,7 +8,6 @@ const App = () => {
     <SafeAreaView style={{flex:1,backgroundColor:'#181c14'}}>
       <StatusBar barStyle='default' />
       <Home/>
-      <Text>App</Text>
     </SafeAreaView>
   )
 }
